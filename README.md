@@ -6,7 +6,7 @@ flash it on recovery mode
 
 # Check
 
-- [x] zygisk
+- [x] zygisk (only working rpi4 now)
 - [x] LSposed
 - [x] DisableFlagSecure-LSPosed
 
