@@ -12,4 +12,5 @@ flash it on recovery mode
 
 # Limitation
 
-Shows "Requires Additional Setup" popup when open magisk app. **but it's working**
+- Shows "Requires Additional Setup" popup when open magisk app. **but it's working**
+- zygisk not working on RPI5
